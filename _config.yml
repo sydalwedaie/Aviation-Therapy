@@ -1,0 +1,56 @@
+# Site setings
+name: "Aviation Therapy"
+description: "A pilot's perspective on everything flight related and the meaning of life."
+meta_description: "professional pilot, flying journal, pilot's life, pilots' inside stories"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl:
+production_url:
+disqus: ''
+mailchimp_url: ""
+cover_image: bc_1.jpg
+
+# Author
+author:
+    name: "Sayed Ali"
+    image: "authorimage.jpg"
+    greetings: "Hello people!"
+    description: "My name is Sayed Ali. I am a full time airline first officer, a computer geek, a learning enthusiast, and a passionate instructor."
+    bio: "Sayed is a computer geek, happend to be a pilot. He spends his free time learning new skills, helping his friends with flight related matters, and writing a book on being a proffessional pilot."
+
+# Social links
+twitter: "aviation-therapy"
+facebook: "aviation-therapy"
+googleplus: "+aviation-therapy"
+# github: ""
+# codepen: ""
+# dribbble: ""
+# medium: ""
+instagram: "aviation-therapy"
+# pinterest: ""
+linkedin: "sydalwedaie"
+
+navigation:
+- text: About
+  url: /about/
+
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+
+# Pagination 
+paginate: 5
+paginate_path: /page:num/
+    
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+    sass_dir: _sass
+    style: compressed
