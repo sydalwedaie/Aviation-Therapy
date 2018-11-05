@@ -11,3 +11,5 @@ I sat up this website to satisfy another passion of mine: Teaching. I like passi
 Do not hesistate to contact me through my [Linked In](http://linkedin.com/in/sydalwedaie/) profile.
 
 *Thank You for reading!*
+
+{% include contact-me.html %}
