@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+Hi. People call me Sayed. I did my pilot studies in Oxford, UK and my initial flights in Phoenix, Arizona. Currently, I am a full time airline first officer in one of the major airlines in the Middle East. I chose to become a pilot because I was so obsessed with flying. I told my father, I need to calm down this desire before doing anything else.
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+I sat up this website to satisfy another passion of mine: Teaching. I like passing on what I know to others and I find great pleasure in doing so.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+Do not hesistate to contact me through my [Linked In](http://linkedin.com/in/sydalwedaie/) profile.
 
 *Thank You for reading!*
