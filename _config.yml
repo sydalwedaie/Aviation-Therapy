@@ -3,7 +3,7 @@ name: "Aviation Therapy"
 description: "A pilot's perspective on everything flight related and the meaning of life."
 meta_description: "professional pilot, flying journal, pilot's life, pilots' inside stories"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: ''
 baseurl:
 production_url:
 disqus: ''
